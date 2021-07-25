@@ -3,21 +3,21 @@
 body {
   font-family: Courier New, arial, sans-serif;
   margin: 2em;
-  background-image: url("https://cdn.glitch.com/97db38e4-d1d2-4ef3-8dd0-65b688d9e940%2Fbgee.jpeg?v=1616215887798");
+  background-image: url('images/bg.jpg');
   background-size: auto;
-  background-size:  cover;               
+  background-size:  cover;
   background-repeat:   no-repeat;
-  background-position: center center;   
+  background-position: center center;
   color:black;
   text-align:center;
 }
 
 h1 {
-  font-family: verdana, arial, sans-serif; 
+  font-family: verdana, arial, sans-serif;
   color: black;
   text-align:center;
-  
-    
+
+
 }
 
 
@@ -74,7 +74,7 @@ button{
 #button2:active, #button2.lit {
   background:blue;
   opacity:1;
-  
+
 }
 
 #button3 {
@@ -125,4 +125,3 @@ button{
   background:orange;
   opacity:1;
 }
-
